@@ -1,2 +1,7 @@
-# demo-dra-sieli-gloria
-Demo web para Dra. Sieli Gloria — diseñada por eterlab.
+# Dra. Sieli Gloria
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
